@@ -1,6 +1,6 @@
 # metasploit-modules
 
-Content: Metasploit Modul to send Emails
+Content: Metasploit module to send Emails
 
 Author: Florian Hansemann | @HanseSecure | https://hansesecure.de
 
