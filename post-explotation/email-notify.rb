@@ -11,7 +11,7 @@ def initialize
         super(
         'Name' => 'Email Notification for opened session',
         'Version' => '1.0',
-        'Description' => 'This Modul will notify you with an email if a session is opened',
+        'Description' => 'This module will notify you with an email if a session is opened',
         'Author' => 'Florian Hansemann <info@hanseSecure.de>',
         'License' => MSF_LICENSE,
         'Platform' => 'multi')
